@@ -1,0 +1,15 @@
+# Construction C++ et résultats générés.
+/build/
+/build-*/
+/cmake-build-*/
+/results/
+
+# Python et éditeurs.
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+*.user
+.DS_Store
+Thumbs.db
